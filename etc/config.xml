@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * @copyright Copyright (c) sbdevblog (http://www.sbdevblog.com)
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
+    <default>
+        <sbcheckout>
+            <additional_validation>
+                <enable>1</enable>
+            </additional_validation>
+            <notice>
+                <notice>SbDevBlog Notice Demo</notice>
+            </notice>
+        </sbcheckout>
+    </default>
+</config>
